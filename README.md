@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiannisx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jiannisx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jiannisx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Steve Jobs Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Everybody%20should%20learn%20to%20program%20a%20computer,%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jiannisx&icon=0&color=0)](https://visitcount.itsvg.in)
