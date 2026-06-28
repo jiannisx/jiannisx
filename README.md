@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jiannisx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiannisx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jiannisx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Steve Jobs Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Everybody%20should%20learn%20to%20program%20a%20computer,%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs)
 
